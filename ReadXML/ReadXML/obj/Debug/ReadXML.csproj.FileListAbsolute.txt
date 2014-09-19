@@ -1,0 +1,11 @@
+C:\Users\fabio.leardini\Desktop\ReadXML\ReadXML\ReadXML\bin\Debug\ReadXML.exe
+C:\Users\fabio.leardini\Desktop\ReadXML\ReadXML\ReadXML\bin\Debug\ReadXML.pdb
+C:\Users\fabio.leardini\Desktop\ReadXML\ReadXML\ReadXML\obj\Debug\ReadXML.csprojResolveAssemblyReference.cache
+C:\Users\fabio.leardini\Desktop\ReadXML\ReadXML\ReadXML\obj\Debug\ReadXML.exe
+C:\Users\fabio.leardini\Desktop\ReadXML\ReadXML\ReadXML\obj\Debug\ReadXML.pdb
+C:\Users\fabio.leardini\Desktop\Projects\ReadXML\ReadXML\ReadXML\obj\Debug\ReadXML.exe
+C:\Users\fabio.leardini\Desktop\Projects\ReadXML\ReadXML\ReadXML\obj\Debug\ReadXML.pdb
+F:\SML\Projects\ReadXML\ReadXML\ReadXML\obj\Debug\ReadXML.exe
+F:\SML\Projects\ReadXML\ReadXML\ReadXML\obj\Debug\ReadXML.pdb
+I:\SML\Projects\ReadXML\ReadXML\ReadXML\obj\Debug\ReadXML.exe
+I:\SML\Projects\ReadXML\ReadXML\ReadXML\obj\Debug\ReadXML.pdb
